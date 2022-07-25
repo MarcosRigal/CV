@@ -1,0 +1,199 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marcos",
+      "surnames": "Rivera Gavilán",
+      "title": "Coordinator of the 4th edition of SalmorejoTech",
+      "description": "Ever since I was 8 years old and had access to my first computer, I have always loved technology. \nIn high school I started programming in Arduino and making Android apps with MIT App Inventor. \nIn the computer engineering degree, I have learned to work with C++, Java and SQL databases. \nIn addition, as a member of the \"Aula de Software Libre\" at the University of Córdoba, I have worked with Python, React and MongoDB in different projects. \nFinally, this year working as a researcher at the Maimonides Institute for Biomedical Research in Córdoba, I have learned to work with Scikit-learn, Pandas and NumPy for AI and data analysis projects.",
+      "avatar": {
+        "alt": "Foto de Marcos Rivera Gavilán 🇪🇸.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/201d6ddd-cea4-4244-88c1-12af5ec68dd3_foto-de-marcos-river.jpg"
+      },
+      "location": {
+        "notes": "Córdoba, España"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/MarcosRigal/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/MarcosRigal01"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I really like sports",
+        "fact": "I've played basketball, football when i was younger and i really enjoyed it"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marcos-rivera-gavil%C3%A1n-806b61184/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
