@@ -15,17 +15,13 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/201d6ddd-cea4-4244-88c1-12af5ec68dd3_foto-de-marcos-river.jpg"
       },
       "location": {
-        "notes": "Córdoba, España"
+        "notes": "Córdoba"
       }
     },
     "relevantLinks": [
       {
         "type": "github",
         "URL": "https://github.com/MarcosRigal/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/MarcosRigal01"
       },
       {
         "type": "linkedin",
@@ -54,43 +50,37 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "C++",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
           "type": "technology"
         }
       },
@@ -102,19 +92,19 @@
       },
       {
         "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shellscript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
           "type": "technology"
         }
       },
@@ -132,31 +122,37 @@
       },
       {
         "skill": {
-          "name": "Pandas",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Numpy",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Makefile",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Shellscript",
+          "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Pytest",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
           "type": "technology"
         }
       }
